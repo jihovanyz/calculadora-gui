@@ -1,0 +1,19 @@
+{
+  "name": "calculadora-gui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^39.2.7"
+  },
+  "win": {
+  "icon": "favicon.png"
+  }
+}
+
