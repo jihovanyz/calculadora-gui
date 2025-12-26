@@ -14,6 +14,9 @@
   },
   "win": {
   "icon": "favicon.png"
+  },
+  "engines": {
+    "node": ">=20 <21"
   }
 }
 
